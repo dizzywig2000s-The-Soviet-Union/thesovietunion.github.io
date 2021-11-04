@@ -1,0 +1,42 @@
+.back {
+  background-color: #ab3b3b;
+  margin: 35px
+}
+.page {
+  background-color: white;
+  border-radius: 10px;
+}
+.warn {
+  background-color: #b18282;
+  border-left-style: solid;
+  border-left-color: #240b0b;
+  border-left-width: 10px;
+  padding: 5px;
+  font-family: monospace;  
+}
+.buttons {
+  background-color: gray;
+  border-radius: 0px;
+  padding: 15px;
+}
+.pagebutton {
+  color: white;
+  background-color: darkgray;
+  text-decoration: none;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: lightgray;
+  padding: 5px;
+}
+.plink {
+	color: black;
+}
+.info {
+	font-family: cursive;
+}
+.pagetitle {
+	font-family: cursive;
+}
+.sep {
+	padding: 5px;
+}
